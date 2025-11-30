@@ -1,10 +1,5 @@
 
-**Hi everyone, welcome back to the channel.
-In today’s video, I’ll walk you through how to build a simple ALV report in ABAP.**
-
-**I won’t go deep into every line of code — instead, I’ll focus on the overall structure and the key steps you need to follow.**
-This is the same approach used in most SAP projects.
-
+SAP Simple ABAB ALV report
 ---
 
 ## **Step 1 — Prepare the data structures**
