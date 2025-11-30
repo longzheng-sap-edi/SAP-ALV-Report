@@ -1,6 +1,3 @@
----
-
-# 🔹 **【YouTube Script — Version 2（不讲代码、只讲流程、非常专业）】**
 
 **Hi everyone, welcome back to the channel.
 In today’s video, I’ll walk you through how to build a simple ALV report in ABAP.**
