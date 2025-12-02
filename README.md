@@ -1,3 +1,6 @@
+# ⚠️ Usage Notice
+This repository is published solely for interview and technical demonstration. 
+Commercial usage, including training materials or project implementation, is strictly prohibited.
 
 Tutorial_SAP Simple ABAB ALV report 001
 Youtube: https://youtu.be/ZieNDV0gtb0
